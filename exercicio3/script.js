@@ -47,11 +47,4 @@ const ataque3 = {
     precisao: 100,
 }
 pokemon2.ataques.push(ataque3);
-
-//F)
 console.log(pokemon1,pokemon2);
-
-
-
-
-
